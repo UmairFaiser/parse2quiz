@@ -240,10 +240,8 @@ export default function ChatWithFiles() {
           href="https://www.instagram.com/umair_faiser/"
           className="flex flex-row gap-2 items-center border px-2 py-1.5 rounded-md hover:bg-zinc-100 dark:border-zinc-800 dark:hover:bg-zinc-800"
         >
-          
           Developped with 💙 by Umair Faiser
         </NextLink>
-        >
       </motion.div>
     </div>
   );
